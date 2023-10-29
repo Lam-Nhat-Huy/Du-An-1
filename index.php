@@ -5,3 +5,4 @@ if (session_status() == PHP_SESSION_NONE) {
 }
 require_once './app/init.php';
 $myApp = new App();
+echo 'hhi';
