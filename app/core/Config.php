@@ -1,3 +1,3 @@
 <?php
 
-define('ASSETS', '../../public/');
+define('ASSETS', '../../public');
